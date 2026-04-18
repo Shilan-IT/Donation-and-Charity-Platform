@@ -1,0 +1,134 @@
+#con{
+    color: #16A085;
+}
+
+#bg{
+
+    background-color: #16A085;
+}
+#bu{
+
+    background-color: #16A085;
+
+}
+#butl{
+
+    background-color: #6ec093bd;
+
+}
+#col{
+
+    background-color: #29312c;
+}
+#ff{
+    color: #234674;
+}
+
+#bh{
+    background-color: #2d2a2e;
+
+}
+#log{
+    color: #234674;
+    border: none;
+}
+#sbg{
+background-color: rgba(213, 224, 221, 0.973);
+
+}
+#dd2{
+    background-color: #7a89b3;
+}
+
+#butoo{
+    background-color: #29312c;
+}
+
+
+table{
+    background-color: rgba(239, 242, 245, 0.774);
+}
+#tr{
+    background-color: #ccdee0;
+}
+
+
+#dd{
+    background-color: #458a73f1;
+}
+
+#body2{
+    background-color: #e2ebee;
+}
+
+#body1{
+    background-color: #e2ebee;
+}
+
+#oop{
+    background-color: #16A085;
+}
+.oop{
+    border-radius: 3%;
+}
+/*
+slider
+ */
+#t1{
+    text-align: start;
+}
+#t2{
+    text-align: right;
+}
+
+#t3{
+    text-align: center;
+}
+#t4{
+    text-align: center;
+}
+
+
+#t5{
+    text-align: end;
+}
+#t6{
+    text-align: left;
+}
+
+/*
+#t55{
+    text-align: left;
+} */
+
+#main{
+    align-items: center;
+}
+
+#txt{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#login{
+
+background-color: rgba(134, 155, 140, 0.600);
+
+}
+/* #img{
+    background-color:rgba(134, 155, 140, 0.253) ;
+} */
+.card-header{
+    background-color: #16A085;
+}
+
+
+
+
+
+
+
+
+
+
+
+
